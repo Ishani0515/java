@@ -1,0 +1,14 @@
+//program to print a to z using while loop
+
+class SAlpha
+{
+    public static void main(String args[])
+    {
+      char i='a';
+while(i<='z')
+{
+System.out.print(i+" ");
+i++;
+}
+}
+}

@@ -1,0 +1,4 @@
+interface MyRule
+{
+   void showR();
+}
